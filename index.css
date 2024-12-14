@@ -1,0 +1,186 @@
+body {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+   width: 100%;
+   height: 100%;
+}
+.fix{
+    
+}
+
+
+.header{
+    
+}
+.head{
+display: flex;
+position: relative;
+}
+.p1{
+   width: 90px;
+   height: 90px; 
+   margin-left: 80px;
+}
+.car{
+    margin-left: 210px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.para{
+    margin-left: 20px;
+}
+.second{
+    display: flex;
+    margin-left: 175px;
+}
+
+
+
+.dropdown-container {
+    position: relative;
+    display: inline-block;
+    width: 300px;
+}
+
+.dropdown-input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    display: none; 
+}
+
+.dropdown-menu.open {
+    display: block; 
+}
+
+.dropdown-menu option {
+    padding: 8px;
+    cursor: pointer;
+}
+
+.dropdown-menu option:hover {
+    background-color: #f0f0f0;
+}
+
+.iinput{
+    margin-left: 60px;
+}
+.input1{
+    height: 30px;
+    width: 300px;
+    margin-left: 70px;
+}
+.login{
+    margin-left: 90px;
+    background-color: transparent;
+    border: none;
+}
+.sell{
+  background-color: transparent;
+  border-color: aqua;
+  border-radius: 30%;
+  margin-left: 30px;
+}
+.hr{
+    margin-top: 40px;
+    margin-left: 160px;
+}
+.bodyy{
+    margin-left: 170px;
+}
+.div{
+    margin-left: 15px;
+    background-color: transparent;
+    border: none;
+}
+.class{
+    margin-top: 30px;
+}
+.categories{
+    display: flex;
+    margin-left: 140px;
+    
+}
+.pic{
+    margin-left: 50px;
+}
+.box{
+    margin-top: 20px;
+    margin-left: 140px;
+    margin-bottom: 40px;
+}
+.add2{
+    display: flex;
+    gap: 160px;
+}
+.add11{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 70px;
+}
+.advertise{
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.app{
+    background-color: #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.changewidth{
+    width: 400px;
+}
+
+.small{
+    display: flex;
+}
+.bottomm{
+    background-color: #948e8e;
+    display: flex;
+}
+.applications{
+    display: flex;
+    width: 100%;
+    gap: 50px;
+    background-color: #948e8e;
+    border: 2px #ccc ;
+}
+.last{ 
+    background-color: rgb(19, 19, 94);
+    
+}
+.tag{
+    display: flex;
+    color: white;
+    text-align: end;
+    justify-content: end;
+}
+
+
+
+
+
+
+
+
+
+
